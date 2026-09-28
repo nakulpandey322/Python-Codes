@@ -1,3 +1,4 @@
+
 def migratoryBirds(arr):
     count = [0] * 6
 
